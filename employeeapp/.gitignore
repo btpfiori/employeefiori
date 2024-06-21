@@ -7,4 +7,6 @@ mta_archives
 mta-*
 resources
 archive.zip
+.vscode/
+launch.json
 .*_mta_build_tmp
